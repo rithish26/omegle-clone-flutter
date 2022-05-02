@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199213087664",
+    "project_id": "quonny-88555",
+    "storage_bucket": "quonny-88555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199213087664:android:0b1b7076fa5b5cdb423475",
+        "android_client_info": {
+          "package_name": "com.example.omegle_100ms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199213087664-tqs2gkqmsrffn27a425sj9rh8o8od5ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKpjw59HQEjRYV8ONwFbpdATD02omr7JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199213087664-tqs2gkqmsrffn27a425sj9rh8o8od5ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
